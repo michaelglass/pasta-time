@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: io.github.nextjournal/markdown:0.3.69">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/nextjournal/markdown/0.3.69/markdown-0.3.69.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

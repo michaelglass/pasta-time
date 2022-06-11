@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="333d3347-b856-4aa4-bbe9-5bacb40ae23e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/clojure-deps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__applied_science_js_interop_0_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__appliedscience_js_interop_0_2_6_MOVED.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__babashka_fs_0_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__borkdude_edamame_0_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__com_ibm_icu_icu4j_69_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__com_nextjournal_beholder_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__com_taoensso_encore_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__com_taoensso_nippy_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__com_taoensso_truss_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__hiccup_2_0_0_alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__http_kit_2_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__io_github_nextjournal_clerk_0_8_445.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__io_github_nextjournal_markdown_0_3_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__io_methvin_directory_watcher_0_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__lambdaisland_uri_1_11_86.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__mvxcvi_alphabase_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__mvxcvi_multihash_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__net_java_dev_jna_jna_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_clojure_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_core_cache_1_0_207.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_core_memoize_1_0_236.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_core_specs_alpha_0_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_data_json_0_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_data_priority_map_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_java_classpath_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_spec_alpha_0_2_194.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_tools_analyzer_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_tools_analyzer_jvm_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_clojure_tools_reader_1_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_graalvm_js_js_21_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_graalvm_js_js_scriptengine_21_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_graalvm_regex_regex_21_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_graalvm_sdk_graal_sdk_21_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_graalvm_truffle_truffle_api_21_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_iq80_snappy_snappy_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_lz4_lz4_java_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_ow2_asm_asm_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__org_tukaani_xz_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__rewrite_clj_1_0_699_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Deps__weavejester_dependency_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deps.edn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/pasta_time.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pasta-time.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DepsProjectDetails">
+    <option name="cachedModuleDetails">
+      <map>
+        <entry key="$PROJECT_DIR$/deps.edn">
+          <value>
+            <ModuleDetails>
+              <option name="details" value="{:paths [&quot;/Users/michaelglass/Documents/work/pasta-time/src&quot;], :deps {org.clojure/clojure {:mvn/version &quot;1.10.3&quot;}, io.github.nextjournal/clerk {:mvn/version &quot;0.8.445&quot;}}, :aliases {:deps {:replace-deps {org.clojure/tools.deps.alpha {:mvn/version &quot;0.12.1071&quot;}, org.slf4j/slf4j-nop {:mvn/version &quot;1.7.25&quot;}}, :ns-default clojure.tools.cli.api, :ns-aliases {help clojure.tools.cli.help}}, :test {:extra-paths [&quot;/Users/michaelglass/Documents/work/pasta-time/test&quot;]}, :nREPL {:extra-deps {nrepl/nrepl {:mvn/version &quot;0.9.0&quot;}}, :main-opts [&quot;-m&quot; &quot;nrepl.cmdline&quot;]}}, :mvn/repos {&quot;central&quot; {:url &quot;https://repo1.maven.org/maven2/&quot;}, &quot;clojars&quot; {:url &quot;https://repo.clojars.org/&quot;}}, :src [&quot;notebooks&quot;], :system-aliases #{:nREPL :test :deps}, :deps-tree {org.clojure/data.json {:mvn/version &quot;0.2.6&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/markdown], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/data.json/0.2.6/data.json-0.2.6.jar&quot;], :children ()}, org.lz4/lz4-java {:mvn/version &quot;1.7.1&quot;, :deps/manifest :mvn, :dependents [com.taoensso/nippy], :paths [&quot;/Users/michaelglass/.m2/repository/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar&quot;], :children ()}, org.clojure/clojure {:mvn/version &quot;1.10.3&quot;, :deps/manifest :mvn, :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/clojure/1.10.3/clojure-1.10.3.jar&quot;], :dependents [], :children (org.clojure/core.specs.alpha org.clojure/spec.alpha)}, javax.activation/javax.activation-api {:mvn/version &quot;1.2.0&quot;, :deps/manifest :mvn, :dependents [javax.xml.bind/jaxb-api], :paths [&quot;/Users/michaelglass/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar&quot;], :children ()}, com.ibm.icu/icu4j {:mvn/version &quot;69.1&quot;, :deps/manifest :mvn, :dependents [org.graalvm.js/js], :paths [&quot;/Users/michaelglass/.m2/repository/com/ibm/icu/icu4j/69.1/icu4j-69.1.jar&quot;], :children ()}, weavejester/dependency {:mvn/version &quot;0.2.1&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/weavejester/dependency/0.2.1/dependency-0.2.1.jar&quot;], :children ()}, org.clojure/tools.analyzer {:mvn/version &quot;1.0.0&quot;, :deps/manifest :mvn, :dependents [org.clojure/tools.analyzer.jvm], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/tools.analyzer/1.0.0/tools.analyzer-1.0.0.jar&quot;], :children ()}, io.github.nextjournal/clerk {:mvn/version &quot;0.8.445&quot;, :deps/manifest :mvn, :paths [&quot;/Users/michaelglass/.m2/repository/io/github/nextjournal/clerk/0.8.445/clerk-0.8.445.jar&quot;], :dependents [], :children (weavejester/dependency org.clojure/tools.analyzer.jvm rewrite-clj/rewrite-clj io.github.nextjournal/markdown com.nextjournal/beholder hiccup/hiccup org.clojure/java.classpath mvxcvi/multihash borkdude/edamame com.taoensso/nippy lambdaisland/uri babashka/fs javax.xml.bind/jaxb-api http-kit/http-kit)}, org.clojure/core.specs.alpha {:mvn/version &quot;0.2.56&quot;, :deps/manifest :mvn, :dependents [org.clojure/clojure], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/core.specs.alpha/0.2.56/core.specs.alpha-0.2.56.jar&quot;], :children ()}, org.tukaani/xz {:mvn/version &quot;1.8&quot;, :deps/manifest :mvn, :dependents [com.taoensso/nippy], :paths [&quot;/Users/michaelglass/.m2/repository/org/tukaani/xz/1.8/xz-1.8.jar&quot;], :children ()}, org.graalvm.js/js {:mvn/version &quot;21.3.0&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/markdown], :paths [&quot;/Users/michaelglass/.m2/repository/org/graalvm/js/js/21.3.0/js-21.3.0.jar&quot;], :children (com.ibm.icu/icu4j org.graalvm.regex/regex org.graalvm.sdk/graal-sdk org.graalvm.truffle/truffle-api)}, org.clojure/spec.alpha {:mvn/version &quot;0.2.194&quot;, :deps/manifest :mvn, :dependents [org.clojure/clojure], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/spec.alpha/0.2.194/spec.alpha-0.2.194.jar&quot;], :children ()}, com.taoensso/encore {:mvn/version &quot;3.9.2&quot;, :deps/manifest :mvn, :dependents [com.taoensso/nippy], :paths [&quot;/Users/michaelglass/.m2/repository/com/taoensso/encore/3.9.2/encore-3.9.2.jar&quot;], :children (com.taoensso/truss)}, org.graalvm.regex/regex {:mvn/version &quot;21.3.0&quot;, :deps/manifest :mvn, :dependents [org.graalvm.js/js], :paths [&quot;/Users/michaelglass/.m2/repository/org/graalvm/regex/regex/21.3.0/regex-21.3.0.jar&quot;], :children ()}, org.clojure/tools.analyzer.jvm {:mvn/version &quot;1.1.0&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/tools.analyzer.jvm/1.1.0/tools.analyzer.jvm-1.1.0.jar&quot;], :children (org.clojure/tools.analyzer org.ow2.asm/asm org.clojure/core.memoize)}, appliedscience/js-interop {:mvn/version &quot;0.2.6-MOVED&quot;, :deps/manifest :mvn, :dependents [applied-science/js-interop], :paths [&quot;/Users/michaelglass/.m2/repository/appliedscience/js-interop/0.2.6-MOVED/js-interop-0.2.6-MOVED.jar&quot;], :children ()}, org.iq80.snappy/snappy {:mvn/version &quot;0.4&quot;, :deps/manifest :mvn, :dependents [com.taoensso/nippy], :paths [&quot;/Users/michaelglass/.m2/repository/org/iq80/snappy/snappy/0.4/snappy-0.4.jar&quot;], :children ()}, org.graalvm.sdk/graal-sdk {:mvn/version &quot;21.3.0&quot;, :deps/manifest :mvn, :dependents [org.graalvm.js/js-scriptengine org.graalvm.js/js org.graalvm.truffle/truffle-api], :paths [&quot;/Users/michaelglass/.m2/repository/org/graalvm/sdk/graal-sdk/21.3.0/graal-sdk-21.3.0.jar&quot;], :children ()}, rewrite-clj/rewrite-clj {:mvn/version &quot;1.0.699-alpha&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/rewrite-clj/rewrite-clj/1.0.699-alpha/rewrite-clj-1.0.699-alpha.jar&quot;], :children (org.clojure/tools.reader)}, io.github.nextjournal/markdown {:mvn/version &quot;0.3.69&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/io/github/nextjournal/markdown/0.3.69/markdown-0.3.69.jar&quot;], :children (org.clojure/data.json org.graalvm.js/js applied-science/js-interop org.graalvm.js/js-scriptengine)}, com.nextjournal/beholder {:mvn/version &quot;1.0.0&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/com/nextjournal/beholder/1.0.0/beholder-1.0.0.jar&quot;], :children (io.methvin/directory-watcher)}, org.ow2.asm/asm {:mvn/version &quot;5.2&quot;, :deps/manifest :mvn, :dependents [org.clojure/tools.analyzer.jvm], :paths [&quot;/Users/michaelglass/.m2/repository/org/ow2/asm/asm/5.2/asm-5.2.jar&quot;], :children ()}, io.methvin/directory-watcher {:mvn/version &quot;0.15.0&quot;, :deps/manifest :mvn, :dependents [com.nextjournal/beholder], :paths [&quot;/Users/michaelglass/.m2/repository/io/methvin/directory-watcher/0.15.0/directory-watcher-0.15.0.jar&quot;], :children (net.java.dev.jna/jna org.slf4j/slf4j-api)}, com.taoensso/truss {:mvn/version &quot;1.6.0&quot;, :deps/manifest :mvn, :dependents [com.taoensso/encore], :paths [&quot;/Users/michaelglass/.m2/repository/com/taoensso/truss/1.6.0/truss-1.6.0.jar&quot;], :children ()}, hiccup/hiccup {:mvn/version &quot;2.0.0-alpha2&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/hiccup/hiccup/2.0.0-alpha2/hiccup-2.0.0-alpha2.jar&quot;], :children ()}, mvxcvi/alphabase {:mvn/version &quot;1.0.0&quot;, :deps/manifest :mvn, :dependents [mvxcvi/multihash], :paths [&quot;/Users/michaelglass/.m2/repository/mvxcvi/alphabase/1.0.0/alphabase-1.0.0.jar&quot;], :children ()}, org.clojure/java.classpath {:mvn/version &quot;1.0.0&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/java.classpath/1.0.0/java.classpath-1.0.0.jar&quot;], :children ()}, applied-science/js-interop {:mvn/version &quot;0.2.6&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/markdown], :paths [&quot;/Users/michaelglass/.m2/repository/applied-science/js-interop/0.2.6/js-interop-0.2.6.jar&quot;], :children (appliedscience/js-interop)}, org.graalvm.truffle/truffle-api {:mvn/version &quot;21.3.0&quot;, :deps/manifest :mvn, :dependents [org.graalvm.js/js org.graalvm.regex/regex], :paths [&quot;/Users/michaelglass/.m2/repository/org/graalvm/truffle/truffle-api/21.3.0/truffle-api-21.3.0.jar&quot;], :children ()}, mvxcvi/multihash {:mvn/version &quot;2.0.3&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/mvxcvi/multihash/2.0.3/multihash-2.0.3.jar&quot;], :children (mvxcvi/alphabase)}, borkdude/edamame {:mvn/version &quot;0.0.11&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/borkdude/edamame/0.0.11/edamame-0.0.11.jar&quot;], :children ()}, org.graalvm.js/js-scriptengine {:mvn/version &quot;21.3.0&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/markdown], :paths [&quot;/Users/michaelglass/.m2/repository/org/graalvm/js/js-scriptengine/21.3.0/js-scriptengine-21.3.0.jar&quot;], :children ()}, net.java.dev.jna/jna {:mvn/version &quot;5.7.0&quot;, :deps/manifest :mvn, :dependents [io.methvin/directory-watcher], :paths [&quot;/Users/michaelglass/.m2/repository/net/java/dev/jna/jna/5.7.0/jna-5.7.0.jar&quot;], :children ()}, org.clojure/tools.reader {:mvn/version &quot;1.3.6&quot;, :deps/manifest :mvn, :dependents [rewrite-clj/rewrite-clj], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/tools.reader/1.3.6/tools.reader-1.3.6.jar&quot;], :children ()}, com.taoensso/nippy {:mvn/version &quot;3.1.1&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/com/taoensso/nippy/3.1.1/nippy-3.1.1.jar&quot;], :children (org.lz4/lz4-java org.tukaani/xz com.taoensso/encore org.iq80.snappy/snappy)}, org.slf4j/slf4j-api {:mvn/version &quot;1.7.30&quot;, :deps/manifest :mvn, :dependents [io.methvin/directory-watcher], :paths [&quot;/Users/michaelglass/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar&quot;], :children ()}, lambdaisland/uri {:mvn/version &quot;1.11.86&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/lambdaisland/uri/1.11.86/uri-1.11.86.jar&quot;], :children ()}, babashka/fs {:mvn/version &quot;0.1.5&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/babashka/fs/0.1.5/fs-0.1.5.jar&quot;], :children ()}, org.clojure/core.memoize {:mvn/version &quot;1.0.236&quot;, :deps/manifest :mvn, :dependents [org.clojure/tools.analyzer.jvm], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/core.memoize/1.0.236/core.memoize-1.0.236.jar&quot;], :children (org.clojure/core.cache)}, org.clojure/data.priority-map {:mvn/version &quot;1.0.0&quot;, :deps/manifest :mvn, :dependents [org.clojure/core.cache], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/data.priority-map/1.0.0/data.priority-map-1.0.0.jar&quot;], :children ()}, org.clojure/core.cache {:mvn/version &quot;1.0.207&quot;, :deps/manifest :mvn, :dependents [org.clojure/core.memoize], :paths [&quot;/Users/michaelglass/.m2/repository/org/clojure/core.cache/1.0.207/core.cache-1.0.207.jar&quot;], :children (org.clojure/data.priority-map)}, javax.xml.bind/jaxb-api {:mvn/version &quot;2.3.1&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar&quot;], :children (javax.activation/javax.activation-api)}, http-kit/http-kit {:mvn/version &quot;2.5.3&quot;, :deps/manifest :mvn, :dependents [io.github.nextjournal/clerk], :paths [&quot;/Users/michaelglass/.m2/repository/http-kit/http-kit/2.5.3/http-kit-2.5.3.jar&quot;], :children ()}}, :test-paths [&quot;/Users/michaelglass/Documents/work/pasta-time/test&quot;]}" />
+              <option name="hash" value="13e5c190cc41d5937e2c77199c91f39f" />
+            </ModuleDetails>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="ReplState" timestamp="1654947150335">{:repl-history {:ide [], :local [{:command &quot;( clerk/serve! {} )&quot;, :offset 19, :ns &quot;pasta-time&quot;} {:command &quot;(ns pasta-time\n  (:require [nextjournal.clerk :as clerk])\n  )&quot;, :offset 61, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunManager">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="pasta-time" />
+      <setting name="displayName" value="repl" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="DEPS" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="333d3347-b856-4aa4-bbe9-5bacb40ae23e" name="Changes" comment="" />
+      <created>1654946531080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654946531080</updated>
+    </task>
+    <servers />
+  </component>
+</project>
